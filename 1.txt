@@ -8,3 +8,5 @@ This is user 2 change
 This is FeatureX chang
  
 this file is changed from eclipse
+
+feature x changed
