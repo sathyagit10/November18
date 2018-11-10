@@ -10,3 +10,4 @@ This is FeatureX chang
 this file is changed from eclipse
 
 feature x changed
+conflict change
